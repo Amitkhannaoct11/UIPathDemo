@@ -72,7 +72,7 @@
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
     <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="388,141" sap2010:WorkflowViewState.IdRef="LogMessage_1" Message="[&quot;hi Amit, nice to see you here&quot;]" />
-    <ui:SetCredential SecurePassword="{x:Null}" TimeoutMS="{x:Null}" CredentialName="AssetCredentials" DisplayName="Set Credential" FolderPath="Amit Khanna" sap:VirtualizedContainerService.HintSize="388,245" sap2010:WorkflowViewState.IdRef="SetCredential_1" Password="admin" UserName="admin" />
+    <ui:SetCredential SecurePassword="{x:Null}" TimeoutMS="{x:Null}" CredentialName="AssetCredentials" DisplayName="Set Credential" FolderPath="Amit Khanna" sap:VirtualizedContainerService.HintSize="388,245" sap2010:WorkflowViewState.IdRef="SetCredential_1" Password="admin" UserName="admin1" />
     <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="388,141" sap2010:WorkflowViewState.IdRef="LogMessage_2" Message="[&quot;Assetdone&quot;]" />
   </Sequence>
 </Activity>
